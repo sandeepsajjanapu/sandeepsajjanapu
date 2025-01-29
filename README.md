@@ -6,7 +6,7 @@ Hello! I'm Sandeep Sajjanapu, a passionate data analyst with a keen interest in 
 
 - **Data Analysis:** Data Cleaning, Data Modelling, Data Storytelling
 - **Programming:** Python, SQL, Java
-- **Data Visualization:** Tableau, Matplotlib, Seaborn
+- **Data Visualization:** Tableau, Matplotlib, Seaborn, Power bi
 - **Tools & Software:** MySQL, MS Office Suite, Advanced Excel
 - **Interests:** Problem-solving, critical thinking, competitive programming, and open-source contributions
 
