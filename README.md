@@ -14,7 +14,7 @@ Hello! I'm Sandeep Sajjanapu, a passionate data analyst with a keen interest in 
 
 - **Data Analyst Intern** at Twilearn
 - **Key Achievements:**
-  - Successfully completed Amazon Sales analysis project
+  - Successfully completed Sales analysis project
 
 ### Notable Projects
 
@@ -23,15 +23,15 @@ Hello! I'm Sandeep Sajjanapu, a passionate data analyst with a keen interest in 
   - Actions: Utilized regression modeling with Python (scikit-learn, pandas) on a 10,000+ entry dataset, applying feature engineering for accuracy.
   - Results: Achieved 85% model accuracy and deployed a user-friendly web app, “Car Cost,” enabling users to get price estimates based on car details.
 
-- **[Electric Vehicle (EV) Performance Analysis]([PROJECT LINK](https://github.com/sandeepsajjanapu/Electrical-vehicle-analysis))**
-  - Objective: Evaluated EV performance metrics to recommend design optimizations.
-  - Actions: Performed in-depth analysis on battery life and range metrics, addressing data inconsistencies and leveraging Tableau’s analytics tools.
-  - Results: Proposed actionable steps projected to extend battery life by 15%, providing data-driven insights for future EV improvements.
+- **[Supermart grocery sales Analysis]([PROJECT LINK](https://github.com/sandeepsajjanapu/Supermart-grocery-sales))**
+  - Objective: Analyzed Supermart Grocery Sales data to identify trends, optimize revenue, and resolve data inconsistencies.
+  - Actions: Cleaned date inconsistencies, created Pivot Tables and Charts, applied Excel formulas, and used Conditional Formatting.
+  - Results: Identified top-selling products, highlighted regional performance, discovered seasonal trends, and improved data cleaning skills.
 
-- **[Real Estate Price Analysis – Terror’s Real Estate Agency]([PROJECT LINK](https://github.com/sandeepsajjanapu/Real-Estate-Agency-Analysis))**
-  - Objective: Supported a real estate agency in improving property valuation accuracy.
-  - Actions: Analyzed over 2,000 property records, applying exploratory data analysis and regression techniques to identify pricing influencers.
-  - Results: Improved valuation accuracy by 10%, enabling data-informed pricing decisions and increasing client trust.
+- **[Amazon sales analysis project]([PROJECT LINK](https://github.com/sandeepsajjanapu/Amazon-Sales-Analysis))**
+  - Objective: Analyze Amazon sales data to uncover trends, key metrics, and operational insights.
+  - Actions: Performed ETL with Python, visualized trends in Power BI, calculated KPIs using DAX, and analyzed shipping efficiency.
+  - Results: Identified peak sales periods, regional performance trends, shipping delays, and created dynamic dashboards for data-driven decision-making.
 
 ### Connect with Me
 
